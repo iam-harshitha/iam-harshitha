@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Hi%2C%20I'm%20Harshitha%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20GenAI%20%C2%B7%20Agentic%20AI%20%C2%B7%20RAG&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Hi%2C%20I'm%20Harshitha%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+AI+agents+that+actually+work+%F0%9F%A4%96;Turning+LLMs+into+real+products+%E2%9A%A1;Published+patent+holder+%F0%9F%93%9C" alt="Typing SVG" />
