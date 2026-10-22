@@ -18,31 +18,16 @@
 
 ## 👩‍💻 About Me
 
-I'm an **AI Engineer** from Bangalore 🇮🇳 who loves turning LLMs into useful, production-ready applications. I build **AI agents, RAG systems and automation pipelines**, and I also enjoy teaching AI to others.
+I'm an **AI Engineer** from Bangalore 🇮🇳 who loves turning LLMs into useful, production-ready applications. I build **AI agents, RAG systems and automation pipelines**.
 
 - 💼 Currently building AI agents & automation at **Eduspace Education** (Remote, USA)
 - ✍️ Engineered **100+ optimized LLM prompts** with structured outputs
-- 🎓 Trained **40+ students** and mentored **15+ chatbot teams** as an AI Instructor
+- 🎓 Trained **40+ students** and mentored **15+ teams** as an AI Instructor
 - 📜 Published **patent** holder: *Neuro-Cam*, an AI emergency patient routing system
 
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
 
 | 🧠 AI & Automation | ⚙️ Data Engineering | 🔧 Frameworks |
 |---|---|---|
@@ -62,7 +47,7 @@ I'm an **AI Engineer** from Bangalore 🇮🇳 who loves turning LLMs into usefu
 
 🔵 AI Development Intern  @ ThoughtData            Aug 2024 – Mar 2025
 
-🟠 AI/ML Intern          @ Next24tech             Jun 2024 – Aug 2024
+🟠 AI/ML Intern           @ Next24tech             Jun 2024 – Aug 2024
 
 ```
 
