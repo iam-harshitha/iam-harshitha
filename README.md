@@ -55,57 +55,18 @@ I'm an **AI Engineer** from Bangalore 🇮🇳 who loves turning LLMs into usefu
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | What it does | Tech |
-|---|---|---|
-| 🧬 **Neuro-Cam** *(Patent Published)* | AI emergency patient routing. Edge AI cameras detect medical emergencies and allocate hospitals in real time by severity and resource availability. | Edge AI, Computer Vision |
-| 📄 **ResumeGenie** | Agentic system that tailors resumes to job listings, with job scraping and automatic PDF generation. | LangChain, LangGraph, LLaMA-3 |
-| 💰 **Argentum-AI** | Financial research RAG chatbot answering investment questions from PDFs, hosted locally for privacy. 95% response accuracy. | LLaMA-3, FAISS, Sentence Transformers |
-| 📖 **Story_Quiz.ai** | Generates narrated stories and comprehension quizzes. | Groq Llama, LangChain, gTTS, Streamlit |
-| 🔬 **AskMe** | Research assistant that summarizes uploaded papers or searches arXiv by keyword. | Python, Streamlit, arXiv API |
-
----
-
 ## 💼 Experience
 
 ```text
 🟣 AI Engineer            @ Eduspace Education     Jun 2025 – Present
-   Resume Generator · ATS Analyzer · Cover Letter & Cold Email Generators · ETL + PDF pipelines
 
 🟢 AI Instructor          @ KJDG                   Nov 2024 – Mar 2025
-   Python · ML · NLP · LLMs · RAG · Responsible AI
 
 🔵 AI Development Intern  @ ThoughtData            Aug 2024 – Mar 2025
-   Network automation for 100+ devices · 75% less manual effort · 4h → 45min deployments
 
 🟠 AI/ML Intern          @ Next24tech             Jun 2024 – Aug 2024
-   Plant disease detection · 5,000+ images · 91% accuracy
+
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iam-harshitha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-harshitha&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-
-<img src="https://streak-stats.demolab.com?user=iam-harshitha&theme=tokyonight&hide_border=true" alt="streak" />
-
-</div>
-
----
-
-## 🎓 Education & Certifications
-
-- 🎓 **B.C.A**, Kristu Jayanti University (CGPA **9.04**), 2022–2025
-- 🏅 Generative AI with LLMs, *DeepLearning.AI*
-- 🏅 Neural Networks and Deep Learning, *Stanford University*
-- 🏅 Supervised Machine Learning, *DeepLearning.AI*
-
----
 
 <div align="center">
 
