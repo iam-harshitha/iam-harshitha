@@ -21,9 +21,9 @@
 I'm an **AI Engineer** from Bangalore 🇮🇳 who loves turning LLMs into useful, production-ready applications. I build **AI agents, RAG systems and automation pipelines**.
 
 - 💼 Currently building AI agents & automation at **Eduspace Education** (Remote, USA)
+- 📜 Published **patent** holder: *Neuro-Cam*, an AI emergency patient routing system
 - ✍️ Engineered **100+ optimized LLM prompts** with structured outputs
 - 🎓 Trained **40+ students** and mentored **15+ teams** as an AI Instructor
-- 📜 Published **patent** holder: *Neuro-Cam*, an AI emergency patient routing system
 
 ---
 
@@ -43,9 +43,9 @@ I'm an **AI Engineer** from Bangalore 🇮🇳 who loves turning LLMs into usefu
 ```text
 🟣 AI Engineer            @ Eduspace Education     Jun 2025 – Present
 
-🟢 AI Instructor          @ KJDG                   Nov 2024 – Mar 2025
-
 🔵 AI Development Intern  @ ThoughtData            Aug 2024 – Mar 2025
+
+🟢 AI Instructor          @ KJDG                   Nov 2024 – Mar 2025
 
 🟠 AI/ML Intern           @ Next24tech             Jun 2024 – Aug 2024
 
